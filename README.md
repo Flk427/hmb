@@ -1,6 +1,8 @@
 # hmb
 Home Media Bank. Storage and control center for phots and video.
 
+Orig.: https://docs.google.com/document/d/1pf54X6wSeVQabhnvb8Wp-m2bLvNXUhW0kkRhs-mAfKU/edit?usp=sharing
+
 Нужна тулза
 
 Или найти, или сам. Десктоп или андроид. Организация или синхронизация файлов, поиск дубликатов с выбором решения, импорт с разделением по типу содержимого (mime?) Название: filecollection, filecraft, filelibrary, mediabank, и т.д.
