@@ -1,5 +1,5 @@
 # hmb
-Home Media Bank. Storage and control center for phots and video.
+Home Media Bank. Storage and control center for photo and video.
 
 Orig.: https://docs.google.com/document/d/1pf54X6wSeVQabhnvb8Wp-m2bLvNXUhW0kkRhs-mAfKU/edit?usp=sharing
 
