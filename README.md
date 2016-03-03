@@ -46,5 +46,7 @@ Exif информация о файле.
 Примеры
 
 http://habrahabr.ru/post/165899/
+
 http://geektimes.ru/post/115818/
+
 http://www.exler.ru/blog/item/16522/
